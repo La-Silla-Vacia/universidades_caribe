@@ -33,6 +33,6 @@ To embed on a webpage use this code:
 <div class="lsv-interactive" id="map_menu">
 <img src="https://la-silla-vacia.github.io/map_menu/screenshot.png" class="screenshot" style="width:100%;">
 </div>
-<script defer type="text/javascript" src="https://la-silla-vacia.github.io/universidadesposconflicto/script.js"></script>
+<script defer type="text/javascript" src="https://la-silla-vacia.github.io/universidades_caribe/script.js"></script>
 <!-- END OF OUR INTERACTIVE -->
 ```
